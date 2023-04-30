@@ -1629,7 +1629,7 @@ $string =  '<!DOCTYPE html>'.
 '				<b class="rc4"></b>'.
 '				<b class="rc5"></b>'.
 '				</b> <div class="tabContent">'.
-'				<a href="/web/20060831010548/http://www.youtube.com/groups_main">Groups</a>'.
+'				<a href="/web/20060831010548/http://www.youtube.com/groups_main">Users</a>'.
 '				</div>'.
 '				</div>'.
 '				'.
