@@ -2187,7 +2187,9 @@ $string =  '<div class="content">		<div class="headerTitle">'.
 '	</tbody></table>'.
 '</div> <!-- end vEntry -->'.
 '	</div>';
-
+$string =  '<div class="footerBox">'.
+'		<div style="padding: 3px 0px; text-align: right;"><a href="/web/20061015203744/http://www.youtube.com/browse?s=rf">See More Videos</a></div>'.
+'	</div>';
 '  </body>'.
 '</html>';
 
